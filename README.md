@@ -1,3 +1,3 @@
-## Show Boat
+## Stop That Ritual!
 
-Let's make a game!!
+Do not allow the dragon to be summoned! Fight through the hoard of guards, save the damsel and stop the ritual!
