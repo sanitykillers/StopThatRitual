@@ -1747,4 +1747,169 @@
 [2016.01.31-21.06.57:973][581]LogSavePackage: Save=64.242264ms
 [2016.01.31-21.06.57:974][581]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Battle849E15804D60D23782FBC2BF95FB6001.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap'
 [2016.01.31-21.06.57:974][581]LogSavePackage: Total save time: 82.981277ms
-[2016.01.31-21.06.57:974][581
+[2016.01.31-21.06.57:974][581]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap
+[2016.01.31-21.07.14:859][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-21.07.14:966][433]LogSavePackage: Save=63.460129ms
+[2016.01.31-21.07.14:966][433]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Battle3B6847AC478157B8A1963BA65AAC8B55.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap'
+[2016.01.31-21.07.14:967][433]LogSavePackage: Total save time: 83.544672ms
+[2016.01.31-21.07.14:967][433]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap
+[2016.01.31-21.07.14:990][433]LogFileHelpers: Saving map 'Lvl_Battle' took 0.181
+[2016.01.31-21.08.09:696][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-21.08.09:768][383]LogSavePackage: Save=62.244232ms
+[2016.01.31-21.08.09:768][383]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Battle4A39B2E6407F4C0C208B61BE6DE78192.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap'
+[2016.01.31-21.08.09:769][383]LogSavePackage: Total save time: 72.704643ms
+[2016.01.31-21.08.09:769][383]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap
+[2016.01.31-21.08.27:939][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-21.08.28:045][678]LogSavePackage: Save=62.707695ms
+[2016.01.31-21.08.28:045][678]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Battle36BA632D471AA9C7AF622D959594E261.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap'
+[2016.01.31-21.08.28:046][678]LogSavePackage: Total save time: 82.151186ms
+[2016.01.31-21.08.28:046][678]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap
+[2016.01.31-21.08.28:068][678]LogFileHelpers: Saving map 'Lvl_Battle' took 0.180
+[2016.01.31-21.10.43:247][ 41]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Battle_bg_Sprite)
+[2016.01.31-21.10.52:425][ 40]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2016.01.31-21.10.59:747][903]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2016.01.31-21.10.59:847][913]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2016.01.31-21.11.14:438][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-21.11.14:549][445]LogSavePackage: Save=65.992470ms
+[2016.01.31-21.11.14:549][445]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Battle0E69B17C4D3581E88058F98EAF8201A1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap'
+[2016.01.31-21.11.14:550][445]LogSavePackage: Total save time: 85.395433ms
+[2016.01.31-21.11.14:550][445]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Battle.umap
+[2016.01.31-21.11.14:573][445]LogFileHelpers: Saving map 'Lvl_Battle' took 0.186
+[2016.01.31-21.11.14:579][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset" SILENT=true
+[2016.01.31-21.11.14:630][445]LogSavePackage: Save=40.267162ms
+[2016.01.31-21.11.14:631][445]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Enemy02BA676442C56578890FA6AC2039CBD8.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset'
+[2016.01.31-21.11.14:632][445]LogSavePackage: Total save time: 51.985234ms
+[2016.01.31-21.11.14:632][445]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset
+[2016.01.31-21.46.35:751][936]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:\Users\Stalker\Desktop\Game Jam\Assets\CliffBackground.tga)
+[2016.01.31-21.46.35:764][936]LogTexture:Display: Building textures: CliffBackground (AutoDXT)
+[2016.01.31-21.46.35:811][936]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:\Users\Stalker\Desktop\Game Jam\Assets\Player_Idle.tga)
+[2016.01.31-21.46.35:812][936]LogTexture:Display: Building textures: Player_Idle (AutoDXT)
+[2016.01.31-21.46.41:376][355]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.01.31-21.47.09:177][183]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.01.31-21.47.09:234][183]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.01.31-21.47.09:611][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000CDD6FD80
+[2016.01.31-21.47.09:612][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000459DBB00
+[2016.01.31-21.47.09:613][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002B1305E0
+[2016.01.31-21.47.09:614][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000C13C8540
+[2016.01.31-21.47.09:614][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039564860
+[2016.01.31-21.47.12:038][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/main_bg" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset" SILENT=true
+[2016.01.31-21.47.12:059][183]LogSavePackage: Save=0.991589ms
+[2016.01.31-21.47.12:059][183]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/main_bg555709E04174484D998073870B941969.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset'
+[2016.01.31-21.47.12:060][183]LogSavePackage: Total save time: 21.578271ms
+[2016.01.31-21.47.12:060][183]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset
+[2016.01.31-21.47.12:076][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Background" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Background.uasset" SILENT=true
+[2016.01.31-21.47.12:092][183]LogSavePackage: Save=4.846873ms
+[2016.01.31-21.47.12:092][183]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Background6696C58C4A6752CDB8BDA6AE2C875D85.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Background.uasset'
+[2016.01.31-21.47.12:093][183]LogSavePackage: Total save time: 16.264841ms
+[2016.01.31-21.47.12:093][183]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Background.uasset
+[2016.01.31-21.47.12:099][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Wgt_Loading" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_Loading.uasset" SILENT=true
+[2016.01.31-21.47.12:118][183]LogSavePackage: Save=7.420981ms
+[2016.01.31-21.47.12:118][183]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Wgt_LoadingDDF024EF4C950912618201B357F2A7AD.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_Loading.uasset'
+[2016.01.31-21.47.12:119][183]LogSavePackage: Total save time: 18.870812ms
+[2016.01.31-21.47.12:119][183]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_Loading.uasset
+[2016.01.31-21.47.12:124][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Wgt_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset" SILENT=true
+[2016.01.31-21.47.12:169][183]LogSavePackage: Save=32.916412ms
+[2016.01.31-21.47.12:169][183]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Wgt_MainMenuCBF676FD4F0E9224EE6B499E7123FB65.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset'
+[2016.01.31-21.47.12:170][183]LogSavePackage: Total save time: 44.905506ms
+[2016.01.31-21.47.12:170][183]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset
+[2016.01.31-21.47.34:972][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CliffBackground" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/CliffBackground.uasset" SILENT=true
+[2016.01.31-21.47.34:988][604]LogSavePackage: Save=15.086689ms
+[2016.01.31-21.47.34:988][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/CliffBackgroundBFAA233F4516DDD03EDB0CAD6D2D7594.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/CliffBackground.uasset'
+[2016.01.31-21.47.34:989][604]LogSavePackage: Total save time: 16.187802ms
+[2016.01.31-21.47.34:989][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/CliffBackground.uasset
+[2016.01.31-21.47.34:996][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle.uasset" SILENT=true
+[2016.01.31-21.47.35:000][604]LogSavePackage: Save=3.083671ms
+[2016.01.31-21.47.35:000][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle8184EFFB43FFACEB61BBDC8A0C4213A4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle.uasset'
+[2016.01.31-21.47.35:001][604]LogSavePackage: Total save time: 4.151057ms
+[2016.01.31-21.47.35:001][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle.uasset
+[2016.01.31-21.47.35:016][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_0" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_0.uasset" SILENT=true
+[2016.01.31-21.47.35:022][604]LogSavePackage: Save=5.276304ms
+[2016.01.31-21.47.35:022][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_0B7E75B78432F702A6BEAEFABD467F682.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_0.uasset'
+[2016.01.31-21.47.35:023][604]LogSavePackage: Total save time: 6.334409ms
+[2016.01.31-21.47.35:023][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_0.uasset
+[2016.01.31-21.47.35:039][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_1" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_1.uasset" SILENT=true
+[2016.01.31-21.47.35:044][604]LogSavePackage: Save=5.207620ms
+[2016.01.31-21.47.35:044][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_196E5B9E84A878666CBD39185CFCC01D7.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_1.uasset'
+[2016.01.31-21.47.35:045][604]LogSavePackage: Total save time: 6.269131ms
+[2016.01.31-21.47.35:045][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_1.uasset
+[2016.01.31-21.47.35:061][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_2" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_2.uasset" SILENT=true
+[2016.01.31-21.47.35:067][604]LogSavePackage: Save=5.336325ms
+[2016.01.31-21.47.35:067][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_26FFE4BBE48A5CAC8FF052A827F8CAA97.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_2.uasset'
+[2016.01.31-21.47.35:068][604]LogSavePackage: Total save time: 6.413303ms
+[2016.01.31-21.47.35:068][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_2.uasset
+[2016.01.31-21.47.35:084][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_3" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_3.uasset" SILENT=true
+[2016.01.31-21.47.35:090][604]LogSavePackage: Save=5.233917ms
+[2016.01.31-21.47.35:090][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_3C471A0C747678BA86525969BBB0BE9BC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_3.uasset'
+[2016.01.31-21.47.35:091][604]LogSavePackage: Total save time: 6.293572ms
+[2016.01.31-21.47.35:091][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_3.uasset
+[2016.01.31-21.47.35:107][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_4" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_4.uasset" SILENT=true
+[2016.01.31-21.47.35:113][604]LogSavePackage: Save=5.496279ms
+[2016.01.31-21.47.35:113][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_43D34E19949F24FCD325F7DAC357200A4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_4.uasset'
+[2016.01.31-21.47.35:114][604]LogSavePackage: Total save time: 6.558098ms
+[2016.01.31-21.47.35:114][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_4.uasset
+[2016.01.31-21.47.35:130][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Player_Idle_Sprite_5" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_5.uasset" SILENT=true
+[2016.01.31-21.47.35:136][604]LogSavePackage: Save=5.398512ms
+[2016.01.31-21.47.35:136][604]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_5C0C5C8754B4681A79F895485D56E024B.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_5.uasset'
+[2016.01.31-21.47.35:137][604]LogSavePackage: Total save time: 6.524377ms
+[2016.01.31-21.47.35:137][604]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Player_Idle_Sprite_5.uasset
+[2016.01.31-21.47.40:702][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_0" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_0.uasset" SILENT=true
+[2016.01.31-21.47.40:708][148]LogSavePackage: Save=5.274138ms
+[2016.01.31-21.47.40:708][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_0E7241A82416753635A11D2A3AC9B9054.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_0.uasset'
+[2016.01.31-21.47.40:708][148]LogSavePackage: Total save time: 6.323580ms
+[2016.01.31-21.47.40:708][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_0.uasset
+[2016.01.31-21.47.40:725][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_1" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_1.uasset" SILENT=true
+[2016.01.31-21.47.40:731][148]LogSavePackage: Save=5.385208ms
+[2016.01.31-21.47.40:731][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_13032A44444BA7E0DC110DD92257B3898.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_1.uasset'
+[2016.01.31-21.47.40:732][148]LogSavePackage: Total save time: 6.454453ms
+[2016.01.31-21.47.40:732][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_1.uasset
+[2016.01.31-21.47.40:747][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_2" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_2.uasset" SILENT=true
+[2016.01.31-21.47.40:754][148]LogSavePackage: Save=5.819899ms
+[2016.01.31-21.47.40:754][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_25A0A32D74056E5402FD8108C4507359C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_2.uasset'
+[2016.01.31-21.47.40:755][148]LogSavePackage: Total save time: 6.965872ms
+[2016.01.31-21.47.40:755][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_2.uasset
+[2016.01.31-21.47.40:771][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_3" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_3.uasset" SILENT=true
+[2016.01.31-21.47.40:777][148]LogSavePackage: Save=5.267641ms
+[2016.01.31-21.47.40:777][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_376C358004E1535B87E88EE9B2DBB89F5.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_3.uasset'
+[2016.01.31-21.47.40:778][148]LogSavePackage: Total save time: 6.350808ms
+[2016.01.31-21.47.40:778][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_3.uasset
+[2016.01.31-21.47.40:794][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_4" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_4.uasset" SILENT=true
+[2016.01.31-21.47.40:800][148]LogSavePackage: Save=5.403462ms
+[2016.01.31-21.47.40:800][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_4FA6B975A406443C5825834B5CD00D64F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_4.uasset'
+[2016.01.31-21.47.40:801][148]LogSavePackage: Total save time: 6.482918ms
+[2016.01.31-21.47.40:801][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_4.uasset
+[2016.01.31-21.47.40:816][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle_Sprite_5" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_5.uasset" SILENT=true
+[2016.01.31-21.47.40:823][148]LogSavePackage: Save=5.530621ms
+[2016.01.31-21.47.40:823][148]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_5A83520F34B1F4B911116359E16ED7E72.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_5.uasset'
+[2016.01.31-21.47.40:824][148]LogSavePackage: Total save time: 6.670717ms
+[2016.01.31-21.47.40:824][148]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle_Sprite_5.uasset
+[2016.01.31-21.48.00:775][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle.uasset" SILENT=true
+[2016.01.31-21.48.00:781][258]LogSavePackage: Save=4.731471ms
+[2016.01.31-21.48.00:781][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_IdleBD41B14D4247AF3360B3CD8EC615A46F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle.uasset'
+[2016.01.31-21.48.00:782][258]LogSavePackage: Total save time: 5.802881ms
+[2016.01.31-21.48.00:782][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle.uasset
+[2016.01.31-21.48.00:798][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle_Sprite_0" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_0.uasset" SILENT=true
+[2016.01.31-21.48.00:804][258]LogSavePackage: Save=5.213189ms
+[2016.01.31-21.48.00:804][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_027A7A3324FDF557AC9C5CABA8D67E762.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_0.uasset'
+[2016.01.31-21.48.00:805][258]LogSavePackage: Total save time: 6.263871ms
+[2016.01.31-21.48.00:805][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_0.uasset
+[2016.01.31-21.48.00:821][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle_Sprite_1" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_1.uasset" SILENT=true
+[2016.01.31-21.48.00:827][258]LogSavePackage: Save=5.168018ms
+[2016.01.31-21.48.00:827][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_127603C7B448157461EB904BEEE63CE13.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_1.uasset'
+[2016.01.31-21.48.00:828][258]LogSavePackage: Total save time: 6.136090ms
+[2016.01.31-21.48.00:828][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_1.uasset
+[2016.01.31-21.48.00:843][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle_Sprite_2" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_2.uasset" SILENT=true
+[2016.01.31-21.48.00:849][258]LogSavePackage: Save=5.257431ms
+[2016.01.31-21.48.00:849][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_28E32D5B84673141ABF9F14BFC3D80475.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_2.uasset'
+[2016.01.31-21.48.00:850][258]LogSavePackage: Total save time: 6.378960ms
+[2016.01.31-21.48.00:850][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_2.uasset
+[2016.01.31-21.48.00:866][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle_Sprite_3" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_3.uasset" SILENT=true
+[2016.01.31-21.48.00:872][258]LogSavePackage: Save=5.227420ms
+[2016.01.31-21.48.00:873][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_30ABAAF6E40906BC9F8838FAA2731F0C0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_3.uasset'
+[2016.01.31-21.48.00:873][258]LogSavePackage: Total save time: 6.242525ms
+[2016.01.31-21.48.00:873][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_3.uasset
+[2016.01.31-21.48.00:889][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Player_Idle/Player_Idle_Sprite_4" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_4.uasset" SILENT=true
+[2016.01.31-21.48.00:895][258]LogSavePackage: Save=5.232061ms
+[2016.01.31-21.48.00:895][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player_Idle_Sprite_44E227E3949CE93AE005850B177F1B827.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_4.uasset'
+[2016.01.31-21.48.00:896][258]LogSavePackage: Total save time: 6.273773ms
+[2016.01.31-21.48.00:896][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Player_Idle/Player_Idle_Sprite_4.uasset
+[2016.01.31-21.48.00:912][258]Cmd: OBJ SAVEPACKAGE PAC
