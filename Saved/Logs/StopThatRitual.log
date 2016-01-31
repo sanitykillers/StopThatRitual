@@ -248,4 +248,956 @@
 [2016.01.31-07.03.11:811][513]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2016.01.31-07.03.13:229][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
 [2016.01.31-07.03.13:247][650]LogSavePackage: Save=11.680840ms
-[2016.01.31-07.03.13:247][650]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main5DCEAA354320F91FDE21198F334B03A0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/S
+[2016.01.31-07.03.13:247][650]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main5DCEAA354320F91FDE21198F334B03A0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.03.13:248][650]LogSavePackage: Total save time: 17.452732ms
+[2016.01.31-07.03.13:248][650]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.03.33:271][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset" SILENT=true
+[2016.01.31-07.03.33:296][345]LogSavePackage: Save=18.621899ms
+[2016.01.31-07.03.33:296][345]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player1A6DA66A48CA6245589EF5835B428FD1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset'
+[2016.01.31-07.03.33:297][345]LogSavePackage: Total save time: 24.799086ms
+[2016.01.31-07.03.33:297][345]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset
+[2016.01.31-07.03.33:337][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.03.33:355][345]LogSavePackage: Save=11.965784ms
+[2016.01.31-07.03.33:355][345]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main0B42C2C447D2FC584573299919215010.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.03.33:356][345]LogSavePackage: Total save time: 17.797388ms
+[2016.01.31-07.03.33:356][345]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.04.08:454][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.04.08:494][543]LogSavePackage: Save=11.386615ms
+[2016.01.31-07.04.08:494][543]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Main22230A5747D3876E7D8054A99EA1ECD4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap'
+[2016.01.31-07.04.08:495][543]LogSavePackage: Total save time: 17.684154ms
+[2016.01.31-07.04.08:495][543]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap
+[2016.01.31-07.04.08:515][543]LogFileHelpers: Saving map 'Lvl_Main' took 0.106
+[2016.01.31-07.06.25:028][589]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003241B420
+[2016.01.31-07.06.25:046][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset" SILENT=true
+[2016.01.31-07.06.25:070][589]LogSavePackage: Save=17.306084ms
+[2016.01.31-07.06.25:070][589]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Player6CFF822B4863ED5625DCD58C238AE9A2.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset'
+[2016.01.31-07.06.25:071][589]LogSavePackage: Total save time: 24.310257ms
+[2016.01.31-07.06.25:071][589]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Player.uasset
+[2016.01.31-07.07.48:260][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/NewBlueprint.uasset" SILENT=true
+[2016.01.31-07.07.48:272][211]LogSavePackage: Save=10.751448ms
+[2016.01.31-07.07.48:272][211]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/NewBlueprint8FD8F99B414D559171F2ACB4A7BF4351.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/NewBlueprint.uasset'
+[2016.01.31-07.07.48:273][211]LogSavePackage: Total save time: 11.858430ms
+[2016.01.31-07.07.48:273][211]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/NewBlueprint.uasset
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.MainPawn:UserConstructionScript.K2Node_FunctionEntry_31' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.SKEL_MainPawn_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.MainPawn_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.MainPawn:EventGraph.K2Node_Event_131' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.MainPawn:EventGraph.K2Node_Event_132' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:568][612]LogMetaData: Removing '/Game/MainPawn.MainPawn:EventGraph.K2Node_Event_133' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.01.31-07.08.03:594][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.08.03:606][612]LogSavePackage: Save=10.707824ms
+[2016.01.31-07.08.03:606][612]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnE3EA5FED4757BC031DAE24B72ACA1EC8.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.08.03:606][612]LogSavePackage: Total save time: 11.771180ms
+[2016.01.31-07.08.03:606][612]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.08.03:734][612]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000194A3D80
+[2016.01.31-07.08.03:737][612]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000010ED3240
+[2016.01.31-07.08.07:954][ 41]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.01.31-07.08.14:456][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MapMode" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset" SILENT=true
+[2016.01.31-07.08.14:472][570]LogSavePackage: Save=9.444295ms
+[2016.01.31-07.08.14:472][570]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MapMode970A50804BA743449FA55AA7D7CC2F17.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset'
+[2016.01.31-07.08.14:473][570]LogSavePackage: Total save time: 15.842073ms
+[2016.01.31-07.08.14:473][570]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset
+[2016.01.31-07.08.14:512][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.08.14:530][570]LogSavePackage: Save=11.371765ms
+[2016.01.31-07.08.14:530][570]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainC43939084C0FBC45439C7BBDE2BC0230.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.08.14:531][570]LogSavePackage: Total save time: 18.113267ms
+[2016.01.31-07.08.14:531][570]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.08.43:733][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.08.43:762][885]LogSavePackage: Save=9.053231ms
+[2016.01.31-07.08.43:762][885]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn3B9C6CBA4D2D6787AC217B8D11A006D2.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.08.43:763][885]LogSavePackage: Total save time: 28.983518ms
+[2016.01.31-07.08.43:763][885]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.08.43:805][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.08.43:822][885]LogSavePackage: Save=11.706520ms
+[2016.01.31-07.08.43:822][885]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main66A81DAE4E8F10DFA02FE2B9F14B042D.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.08.43:823][885]LogSavePackage: Total save time: 17.551735ms
+[2016.01.31-07.08.43:823][885]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.09.08:598][479]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.09.12:359][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.09.12:377][901]LogSavePackage: Save=10.963376ms
+[2016.01.31-07.09.12:377][901]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main31CCFA3C415646DB444B02B43BB7AB21.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.09.12:377][901]LogSavePackage: Total save time: 17.521724ms
+[2016.01.31-07.09.12:377][901]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.09.31:474][364]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.09.40:597][424]Cmd: TRANSACTION UNDO
+[2016.01.31-07.09.40:597][424]LogEditorTransaction: Undo Set actor location
+[2016.01.31-07.09.47:053][ 69]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.09.55:231][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.09.55:249][966]LogSavePackage: Save=12.005695ms
+[2016.01.31-07.09.55:249][966]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main472C99494C37DEB54DD191BCA97FCD16.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.09.55:250][966]LogSavePackage: Total save time: 18.251564ms
+[2016.01.31-07.09.55:250][966]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.10.06:623][385]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.10.09:305][635]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.01.31-07.10.09:306][635]LogPlayLevel: [PlayLevel] Compiling MainPawn before play...
+[2016.01.31-07.10.09:341][635]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2016.01.31-07.10.09:364][635]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:10:09 PM)
+[2016.01.31-07.10.09:364][635]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.10.09:366][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2016.01.31-07.10.09:366][635]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.10.09:366][635]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2016.01.31-07.10.09:367][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002716s)
+[2016.01.31-07.10.09:391][635]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.10.09:396][635]LogInit: FAudioDevice initialized.
+[2016.01.31-07.10.09:437][635]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.10.09:439][635]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.10.09
+[2016.01.31-07.10.09:439][635]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.10.09:439][635]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.10.09:439][635]LogWorld: Bringing up level for play took: 0.001183
+[2016.01.31-07.10.09:441][635]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main 0.952
+[2016.01.31-07.10.15:108][104]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002289AB60
+[2016.01.31-07.10.22:883][979]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.10.24:142][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.10.24:182][119]LogSavePackage: Save=11.783866ms
+[2016.01.31-07.10.24:183][119]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Main45E48325444ADE0D1C7A369BFEA8C768.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap'
+[2016.01.31-07.10.24:183][119]LogSavePackage: Total save time: 18.158440ms
+[2016.01.31-07.10.24:183][119]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap
+[2016.01.31-07.10.24:204][119]LogFileHelpers: Saving map 'Lvl_Main' took 0.107
+[2016.01.31-07.10.33:991][ 14]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.01.31-07.10.33:994][ 14]LogPlayLevel: [PlayLevel] Compiling MainPawn before play...
+[2016.01.31-07.10.34:034][ 14]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2016.01.31-07.10.34:057][ 14]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000040951EE0
+[2016.01.31-07.10.34:057][ 14]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:10:34 PM)
+[2016.01.31-07.10.34:057][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.10.34:059][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2016.01.31-07.10.34:059][ 14]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.10.34:060][ 14]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2016.01.31-07.10.34:060][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002289s)
+[2016.01.31-07.10.34:086][ 14]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.10.34:091][ 14]LogInit: FAudioDevice initialized.
+[2016.01.31-07.10.34:171][ 14]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.10.34:173][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.10.34
+[2016.01.31-07.10.34:173][ 14]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.10.34:173][ 14]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.10.34:173][ 14]LogWorld: Bringing up level for play took: 0.001099
+[2016.01.31-07.10.34:184][ 14]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main -0.306
+[2016.01.31-07.10.38:922][548]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000250BF600
+[2016.01.31-07.10.41:998][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.10.42:013][896]LogSavePackage: Save=9.641373ms
+[2016.01.31-07.10.42:013][896]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn444757AD470DB2574AA5A6AD502B7B4D.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.10.42:014][896]LogSavePackage: Total save time: 15.891884ms
+[2016.01.31-07.10.42:014][896]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.10.46:647][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.10.46:665][352]LogSavePackage: Save=11.690432ms
+[2016.01.31-07.10.46:665][352]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main0987A0484271CED942378282B48E4B89.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.10.46:665][352]LogSavePackage: Total save time: 17.489858ms
+[2016.01.31-07.10.46:665][352]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.11.55:099][571]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.01.31-07.11.59:592][ 94]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.12.01:656][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.31-07.12.01:657][294]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:12:01 PM)
+[2016.01.31-07.12.01:657][294]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.12.01:658][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001625s)
+[2016.01.31-07.12.01:659][294]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.12.01:659][294]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2016.01.31-07.12.01:659][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002436s)
+[2016.01.31-07.12.01:686][294]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.12.01:691][294]LogInit: FAudioDevice initialized.
+[2016.01.31-07.12.01:719][294]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.12.01:721][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.12.01
+[2016.01.31-07.12.01:721][294]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.01:721][294]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.01:721][294]LogWorld: Bringing up level for play took: 0.001091
+[2016.01.31-07.12.01:722][294]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main -0.77
+[2016.01.31-07.12.03:309][450]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000040950900
+[2016.01.31-07.12.09:243][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.31-07.12.09:243][ 89]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:12:09 PM)
+[2016.01.31-07.12.09:243][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.12.09:245][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002221s)
+[2016.01.31-07.12.09:246][ 89]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.12.09:246][ 89]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2016.01.31-07.12.09:246][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.003150s)
+[2016.01.31-07.12.09:273][ 89]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.12.09:278][ 89]LogInit: FAudioDevice initialized.
+[2016.01.31-07.12.09:364][ 89]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.12.09:366][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.12.09
+[2016.01.31-07.12.09:366][ 89]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.09:366][ 89]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.09:366][ 89]LogWorld: Bringing up level for play took: 0.001123
+[2016.01.31-07.12.09:385][ 89]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main 0.893
+[2016.01.31-07.12.16:713][950]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002F996020
+[2016.01.31-07.12.18:808][193]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.12.22:341][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.31-07.12.22:342][530]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:12:22 PM)
+[2016.01.31-07.12.22:342][530]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.12.22:343][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001548s)
+[2016.01.31-07.12.22:344][530]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.12.22:344][530]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2016.01.31-07.12.22:345][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002932s)
+[2016.01.31-07.12.22:371][530]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.12.22:375][530]LogInit: FAudioDevice initialized.
+[2016.01.31-07.12.22:403][530]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.12.22:405][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.12.22
+[2016.01.31-07.12.22:405][530]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.22:405][530]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.12.22:405][530]LogWorld: Bringing up level for play took: 0.001153
+[2016.01.31-07.12.22:406][530]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main -0.086
+[2016.01.31-07.12.23:689][656]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013BF1800
+[2016.01.31-07.12.25:678][878]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.12.28:433][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.12.28:451][ 94]LogSavePackage: Save=11.617107ms
+[2016.01.31-07.12.28:451][ 94]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main664E6A864DB79FCDBA29649B5052AD95.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.12.28:452][ 94]LogSavePackage: Total save time: 17.785013ms
+[2016.01.31-07.12.28:452][ 94]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.12.36:828][384]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.12.45:194][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.12.45:213][253]LogSavePackage: Save=11.408582ms
+[2016.01.31-07.12.45:213][253]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main07E27C354A90C26D1E823484E16A0038.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.12.45:214][253]LogSavePackage: Total save time: 18.215369ms
+[2016.01.31-07.12.45:214][253]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.13.11:223][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.13.13:048][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.13.13:068][734]LogSavePackage: Save=11.312982ms
+[2016.01.31-07.13.13:068][734]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainEF3035D048A60DBF32FFDCB5003A0814.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.13.13:069][734]LogSavePackage: Total save time: 17.528530ms
+[2016.01.31-07.13.13:069][734]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.13.29:787][290]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.13.30:981][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.13.31:000][384]LogSavePackage: Save=11.331854ms
+[2016.01.31-07.13.31:000][384]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainA6393E5D429CF88D006D7C85AD70E697.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.13.31:001][384]LogSavePackage: Total save time: 17.599072ms
+[2016.01.31-07.13.31:001][384]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.13.43:226][915]LogEditorViewport: Clicking Background
+[2016.01.31-07.13.46:631][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.31-07.13.46:631][291]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:13:46 PM)
+[2016.01.31-07.13.46:631][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.13.46:633][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001461s)
+[2016.01.31-07.13.46:633][291]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.13.46:634][291]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2016.01.31-07.13.46:634][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002273s)
+[2016.01.31-07.13.46:660][291]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.13.46:664][291]LogInit: FAudioDevice initialized.
+[2016.01.31-07.13.46:696][291]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.13.46:698][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.13.46
+[2016.01.31-07.13.46:698][291]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.13.46:698][291]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.13.46:698][291]LogWorld: Bringing up level for play took: 0.001119
+[2016.01.31-07.13.46:700][291]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main 0.205
+[2016.01.31-07.13.52:022][782]LogSelection:Warning: PIE object was selected: "MainPawn_C /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.MainPawn_C_14"
+[2016.01.31-07.13.52:843][824]LogSelection:Warning: PIE object was selected: "PlayerStart /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.PlayerStart_1"
+[2016.01.31-07.13.58:430][224]LogSelection:Warning: PIE object was selected: "MainPawn_C /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.MainPawn_C_14"
+[2016.01.31-07.14.07:072][  4]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.07:072][  4]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.07:348][ 18]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.07:348][ 18]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.07:670][ 31]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.07:670][ 31]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.08:045][ 47]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.08:045][ 47]LogEditorTransaction: Undo Clicking Background
+[2016.01.31-07.14.08:253][ 53]LogEditorViewport: Clicking Background
+[2016.01.31-07.14.08:395][ 59]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.08:395][ 59]LogEditorTransaction: Undo Clicking Background
+[2016.01.31-07.14.09:083][ 90]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.09:083][ 90]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.09:563][108]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000038998B80
+[2016.01.31-07.14.10:747][204]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.10:747][204]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.11:423][269]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.11:423][269]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.13:697][507]Cmd: TRANSACTION REDO
+[2016.01.31-07.14.13:697][507]LogEditorTransaction: Redo Move Actors
+[2016.01.31-07.14.13:895][521]Cmd: TRANSACTION REDO
+[2016.01.31-07.14.13:895][521]LogEditorTransaction: Redo Move Actors
+[2016.01.31-07.14.14:100][536]Cmd: TRANSACTION REDO
+[2016.01.31-07.14.14:100][536]LogEditorTransaction: Redo Move Actors
+[2016.01.31-07.14.14:954][623]Cmd: TRANSACTION REDO
+[2016.01.31-07.14.14:954][623]LogEditorTransaction: Redo Clicking Background
+[2016.01.31-07.14.15:402][668]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.15:402][668]LogEditorTransaction: Undo Clicking Background
+[2016.01.31-07.14.15:769][704]Cmd: TRANSACTION UNDO
+[2016.01.31-07.14.15:769][704]LogEditorTransaction: Undo Move Actors
+[2016.01.31-07.14.16:779][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.31-07.14.16:779][787]PIE: New page: PIE session: Lvl_Main (Jan 30, 2016, 9:14:16 PM)
+[2016.01.31-07.14.16:779][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_Main
+[2016.01.31-07.14.16:781][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2016.01.31-07.14.16:782][787]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.14.16:782][787]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2016.01.31-07.14.16:782][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_Main.Lvl_Main to /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main (0.002342s)
+[2016.01.31-07.14.16:807][787]LogInit: XAudio2 using 'Headphones (Razer Kraken USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.31-07.14.16:812][787]LogInit: FAudioDevice initialized.
+[2016.01.31-07.14.16:845][787]LogWorld: Game class is 'MapMode_C'
+[2016.01.31-07.14.16:847][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main up for play (max tick rate 0) at 2016.01.31-02.14.16
+[2016.01.31-07.14.16:847][787]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameSession_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.14.16:847][787]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Lvl_Main.Lvl_Main:PersistentLevel.GameNetworkManager_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.01.31-07.14.16:847][787]LogWorld: Bringing up level for play took: 0.001110
+[2016.01.31-07.14.16:849][787]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Lvl_Main 0.354
+[2016.01.31-07.14.20:080][ 55]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background)
+[2016.01.31-07.14.25:789][615]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002E103100
+[2016.01.31-07.14.26:337][676]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background)
+[2016.01.31-07.14.28:095][860]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background)
+[2016.01.31-07.14.30:668][162]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background)
+[2016.01.31-07.14.35:540][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.14.35:561][664]LogSavePackage: Save=11.636908ms
+[2016.01.31-07.14.35:561][664]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main4423600F43EB810FBC15CBA4C1171817.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.14.35:561][664]LogSavePackage: Total save time: 17.676730ms
+[2016.01.31-07.14.35:561][664]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.14.43:298][921]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.01.31-07.14.44:823][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.14.46:239][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.14.46:261][205]LogSavePackage: Save=11.580600ms
+[2016.01.31-07.14.46:261][205]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main6690E4064BE318918C92D9AF6A1CD36F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.14.46:261][205]LogSavePackage: Total save time: 17.867927ms
+[2016.01.31-07.14.46:261][205]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.14.54:464][469]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.14.55:516][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.14.55:535][559]LogSavePackage: Save=11.855334ms
+[2016.01.31-07.14.55:535][559]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main83E9CBF847DBA7EF000DF3B129238BE4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.14.55:535][559]LogSavePackage: Total save time: 18.891685ms
+[2016.01.31-07.14.55:535][559]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.15.35:474][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.15.35:491][792]LogSavePackage: Save=10.233846ms
+[2016.01.31-07.15.35:491][792]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnC000DD0145D0CA0FC334E4900A6AD150.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.15.35:492][792]LogSavePackage: Total save time: 16.996700ms
+[2016.01.31-07.15.35:492][792]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.15.35:532][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.15.35:549][792]LogSavePackage: Save=11.533573ms
+[2016.01.31-07.15.35:549][792]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main3DAE8D9C4000EBBAFBCE05A3301F7F3E.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.15.35:550][792]LogSavePackage: Total save time: 17.703645ms
+[2016.01.31-07.15.35:550][792]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.16.07:474][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.16.07:491][282]LogSavePackage: Save=10.645947ms
+[2016.01.31-07.16.07:491][282]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnF5951F274FC4DC41CBF1978635FF9B6B.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.16.07:492][282]LogSavePackage: Total save time: 16.870778ms
+[2016.01.31-07.16.07:492][282]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.16.07:531][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.16.07:549][282]LogSavePackage: Save=11.714873ms
+[2016.01.31-07.16.07:549][282]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainE717E2B0410E3F6AF5BEEA8945BB9EA1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.16.07:550][282]LogSavePackage: Total save time: 17.696530ms
+[2016.01.31-07.16.07:550][282]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.16.42:536][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.16.42:551][194]LogSavePackage: Save=9.107064ms
+[2016.01.31-07.16.42:551][194]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnF58F77C14A818B04C13395AD8E9E0061.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.16.42:552][194]LogSavePackage: Total save time: 15.622716ms
+[2016.01.31-07.16.42:552][194]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.16.42:595][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.16.42:613][194]LogSavePackage: Save=11.670321ms
+[2016.01.31-07.16.42:613][194]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main08A943F1477BB0C183B53B9641BEBDA1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.16.42:613][194]LogSavePackage: Total save time: 17.788414ms
+[2016.01.31-07.16.42:613][194]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.16.51:314][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.16.52:168][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.16.52:186][663]LogSavePackage: Save=11.134776ms
+[2016.01.31-07.16.52:186][663]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main22FB0F1D444ED124742B5DBEA5896919.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.16.52:186][663]LogSavePackage: Total save time: 17.492332ms
+[2016.01.31-07.16.52:186][663]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.00:115][985]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.01:081][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.01:099][ 63]LogSavePackage: Save=11.309888ms
+[2016.01.31-07.17.01:099][ 63]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainA44B944E4885D0EDD44E82B678FC8F8C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.01:099][ 63]LogSavePackage: Total save time: 17.163455ms
+[2016.01.31-07.17.01:099][ 63]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.08:388][341]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.09:238][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.09:256][402]LogSavePackage: Save=11.508822ms
+[2016.01.31-07.17.09:256][402]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main783587764B1C9F95EDF89F824357728C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.09:257][402]LogSavePackage: Total save time: 17.852765ms
+[2016.01.31-07.17.09:257][402]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.16:700][699]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.17:385][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.17:404][747]LogSavePackage: Save=11.150864ms
+[2016.01.31-07.17.17:404][747]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainD9284200403252A90F029E8C793F96D0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.17:404][747]LogSavePackage: Total save time: 17.969716ms
+[2016.01.31-07.17.17:404][747]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.24:682][ 24]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.25:517][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.25:535][ 98]LogSavePackage: Save=10.946670ms
+[2016.01.31-07.17.25:535][ 98]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainFA4E5754476A8BA0B336B7856F6B9657.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.25:535][ 98]LogSavePackage: Total save time: 17.758407ms
+[2016.01.31-07.17.25:535][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.34:452][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.35:489][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.35:507][481]LogSavePackage: Save=12.162554ms
+[2016.01.31-07.17.35:507][481]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main45EA3AD749AECCD53CC5609536E5199C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.35:508][481]LogSavePackage: Total save time: 18.362325ms
+[2016.01.31-07.17.35:508][481]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.17.42:884][775]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.44:564][973]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.17.45:498][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.17.45:516][ 45]LogSavePackage: Save=11.316694ms
+[2016.01.31-07.17.45:516][ 45]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main77BE62484020EED167A503B3647D8808.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.17.45:516][ 45]LogSavePackage: Total save time: 17.781917ms
+[2016.01.31-07.17.45:516][ 45]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.18.10:355][565]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.18.30:169][389]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.18.32:932][707]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.18.34:490][854]LogEditorViewport: Clicking Background
+[2016.01.31-07.18.46:505][238]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
+[2016.01.31-07.18.49:887][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.01.31-07.18.50:764][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.18.50:783][665]LogSavePackage: Save=10.832815ms
+[2016.01.31-07.18.50:783][665]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main62A6A6A3459725FFCBB9448775C1B6C6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.18.50:784][665]LogSavePackage: Total save time: 19.008633ms
+[2016.01.31-07.18.50:784][665]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.19.09:034][764]Cmd: TRANSACTION UNDO
+[2016.01.31-07.19.09:034][764]LogEditorTransaction: Undo Set actor location
+[2016.01.31-07.19.13:524][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.19.13:542][106]LogSavePackage: Save=11.438283ms
+[2016.01.31-07.19.13:542][106]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main064ACEA34B9D75C08F2542B480936BB0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.19.13:543][106]LogSavePackage: Total save time: 17.669920ms
+[2016.01.31-07.19.13:543][106]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.19.28:624][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.19.28:664][423]LogSavePackage: Save=11.477884ms
+[2016.01.31-07.19.28:664][423]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Main2DC64B75413363F3A4BDFBB425D26D29.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap'
+[2016.01.31-07.19.28:665][423]LogSavePackage: Total save time: 18.058199ms
+[2016.01.31-07.19.28:665][423]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap
+[2016.01.31-07.19.28:686][423]LogFileHelpers: Saving map 'Lvl_Main' took 0.110
+[2016.01.31-07.19.43:348][ 72]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.01.31-07.19.43:377][ 72]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.19.43:377][ 72]LightingResults: New page: Lighting Build
+[2016.01.31-07.19.43:391][ 72]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.01.31-07.19.43:391][ 72]MapCheck: New page: Map Check
+[2016.01.31-07.19.43:391][ 72]LightingResults: New page: Lighting Build
+[2016.01.31-07.19.43:411][ 72]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000117299E0
+[2016.01.31-07.19.43:458][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.19.43:480][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.19.43:523][ 72]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 43.029ms to complete.
+[2016.01.31-07.19.43:523][ 72]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.147
+[2016.01.31-07.19.44:675][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.19.44:733][167]LogSavePackage: Save=51.651562ms
+[2016.01.31-07.19.44:733][167]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu249405E0401A9E8A3A8288A916E5F65C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.19.44:734][167]LogSavePackage: Total save time: 58.305200ms
+[2016.01.31-07.19.44:734][167]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.20.19:598][906]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.20.21:221][906]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.20.21:222][906]LightingResults: New page: Lighting Build
+[2016.01.31-07.20.21:235][906]LoadErrors: New page: Loading map: Lvl_Main.umap
+[2016.01.31-07.20.21:236][906]MapCheck: New page: Map Check
+[2016.01.31-07.20.21:236][906]LightingResults: New page: Lighting Build
+[2016.01.31-07.20.21:257][906]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000112D4360
+[2016.01.31-07.20.21:317][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.20.21:339][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.20.21:383][906]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.955ms to complete.
+[2016.01.31-07.20.21:383][906]LogFileHelpers: Loading map 'Lvl_Main' took 0.163
+[2016.01.31-07.20.22:564][ 42]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.20.23:416][134]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.20.24:613][273]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.20.27:641][618]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background)
+[2016.01.31-07.20.39:123][903]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.20.40:890][ 88]LogEditorViewport: Clicking Background
+[2016.01.31-07.20.42:149][237]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.20.47:193][822]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.21.40:028][920]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.01.31-07.23.08:689][878]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000004FE45EE0
+[2016.01.31-07.23.08:690][878]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011AE53A0
+[2016.01.31-07.23.08:693][878]LogMetaData: Removing '/Game/MainMapPlayerController.MainMapPlayerController:UserConstructionScript.K2Node_FunctionEntry_42' ref from Metadata '/Game/MapPlayerController.PackageMetaData'
+[2016.01.31-07.23.08:693][878]LogMetaData: Removing '/Game/MainMapPlayerController.SKEL_MainMapPlayerController_C' ref from Metadata '/Game/MapPlayerController.PackageMetaData'
+[2016.01.31-07.23.08:693][878]LogMetaData: Removing '/Game/MainMapPlayerController.MainMapPlayerController_C' ref from Metadata '/Game/MapPlayerController.PackageMetaData'
+[2016.01.31-07.23.08:693][878]LogMetaData: Removing '/Game/MainMapPlayerController.MainMapPlayerController:EventGraph.K2Node_Event_139' ref from Metadata '/Game/MapPlayerController.PackageMetaData'
+[2016.01.31-07.23.08:693][878]LogMetaData: Removing '/Game/MainMapPlayerController.MainMapPlayerController:EventGraph.K2Node_Event_140' ref from Metadata '/Game/MapPlayerController.PackageMetaData'
+[2016.01.31-07.23.08:716][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapPlayerController" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset" SILENT=true
+[2016.01.31-07.23.08:726][878]LogSavePackage: Save=9.085717ms
+[2016.01.31-07.23.08:726][878]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainMapPlayerController7F4196AA47AA5DD224DA53B3F8E5F214.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset'
+[2016.01.31-07.23.08:727][878]LogSavePackage: Total save time: 10.129273ms
+[2016.01.31-07.23.08:727][878]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset
+[2016.01.31-07.24.11:162][123]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.01.31-07.25.26:093][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MapMode" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset" SILENT=true
+[2016.01.31-07.25.26:110][756]LogSavePackage: Save=9.434704ms
+[2016.01.31-07.25.26:110][756]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MapMode33BAD80146C87F76EF56249105DDC4E6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset'
+[2016.01.31-07.25.26:111][756]LogSavePackage: Total save time: 17.405085ms
+[2016.01.31-07.25.26:111][756]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Blueprints/MapMode.uasset
+[2016.01.31-07.25.26:116][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapPlayerController" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MapPlayerController.uasset" SILENT=true
+[2016.01.31-07.25.26:118][756]LogSavePackage: Save=0.824512ms
+[2016.01.31-07.25.26:118][756]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MapPlayerController631BEAEB4B3EDAD0BC4BF8853D2FD397.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MapPlayerController.uasset'
+[2016.01.31-07.25.26:119][756]LogSavePackage: Total save time: 1.954697ms
+[2016.01.31-07.25.26:119][756]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MapPlayerController.uasset
+[2016.01.31-07.25.26:159][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.25.26:176][756]LogSavePackage: Save=11.082799ms
+[2016.01.31-07.25.26:176][756]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main4F72318B4454C004442A2CBFEB2BF382.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.25.26:177][756]LogSavePackage: Total save time: 17.367341ms
+[2016.01.31-07.25.26:177][756]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.29.28:067][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.29.28:084][656]LogSavePackage: Save=9.475233ms
+[2016.01.31-07.29.28:084][656]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn3709B4AF4B0B92ECF70283B0445228FD.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.29.28:085][656]LogSavePackage: Total save time: 17.624129ms
+[2016.01.31-07.29.28:085][656]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.29.28:093][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapPlayerController" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset" SILENT=true
+[2016.01.31-07.29.28:110][656]LogSavePackage: Save=10.081319ms
+[2016.01.31-07.29.28:110][656]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainMapPlayerControllerF4DDC40F4F958F988A29A891079BFAE5.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset'
+[2016.01.31-07.29.28:111][656]LogSavePackage: Total save time: 16.959261ms
+[2016.01.31-07.29.28:111][656]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainMapPlayerController.uasset
+[2016.01.31-07.29.28:118][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barbarian" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset" SILENT=true
+[2016.01.31-07.29.28:129][656]LogSavePackage: Save=10.670079ms
+[2016.01.31-07.29.28:129][656]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian61D8A6D4494B08B552AB728670CF17D1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset'
+[2016.01.31-07.29.28:130][656]LogSavePackage: Total save time: 11.712708ms
+[2016.01.31-07.29.28:130][656]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset
+[2016.01.31-07.30.22:781][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barbarian" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset" SILENT=true
+[2016.01.31-07.30.22:799][224]LogSavePackage: Save=10.737834ms
+[2016.01.31-07.30.22:799][224]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian0326C72442A3E5BC57B46B94CA2841A3.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset'
+[2016.01.31-07.30.22:800][224]LogSavePackage: Total save time: 17.776657ms
+[2016.01.31-07.30.22:800][224]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset
+[2016.01.31-07.30.46:776][751]LogSavePackage: Save=6.139132ms
+[2016.01.31-07.30.46:776][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_0FE11F154458CE54B9906BAAE3DFFA409.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_0.uasset'
+[2016.01.31-07.30.46:777][751]LogSavePackage: Total save time: 13.410304ms
+[2016.01.31-07.30.46:777][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_0.uasset
+[2016.01.31-07.30.46:811][751]LogSavePackage: Save=6.029919ms
+[2016.01.31-07.30.46:811][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_1D425732F4A67DBB529D9759F9015032C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_1.uasset'
+[2016.01.31-07.30.46:812][751]LogSavePackage: Total save time: 13.540249ms
+[2016.01.31-07.30.46:812][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_1.uasset
+[2016.01.31-07.30.46:842][751]LogSavePackage: Save=6.217097ms
+[2016.01.31-07.30.46:842][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_225370CA64A92D138E9358294B35F4900.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_2.uasset'
+[2016.01.31-07.30.46:843][751]LogSavePackage: Total save time: 13.637703ms
+[2016.01.31-07.30.46:843][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_2.uasset
+[2016.01.31-07.30.46:873][751]LogSavePackage: Save=6.198225ms
+[2016.01.31-07.30.46:873][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_35A37661A46FB2042BFB7FA838CF01CDC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_3.uasset'
+[2016.01.31-07.30.46:874][751]LogSavePackage: Total save time: 13.563141ms
+[2016.01.31-07.30.46:874][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_3.uasset
+[2016.01.31-07.30.46:906][751]LogSavePackage: Save=6.688910ms
+[2016.01.31-07.30.46:906][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_4E0DEA63040503B3593A88E8218B2C11C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_4.uasset'
+[2016.01.31-07.30.46:907][751]LogSavePackage: Total save time: 13.881188ms
+[2016.01.31-07.30.46:907][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_4.uasset
+[2016.01.31-07.30.46:937][751]LogSavePackage: Save=6.000527ms
+[2016.01.31-07.30.46:937][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_55F09B6C94F12784B544AA89A493FF957.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_5.uasset'
+[2016.01.31-07.30.46:938][751]LogSavePackage: Total save time: 13.204873ms
+[2016.01.31-07.30.46:938][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_5.uasset
+[2016.01.31-07.30.46:970][751]LogSavePackage: Save=6.445423ms
+[2016.01.31-07.30.46:970][751]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack_Sprite_6D07BE3884562AD145B8B2AAC610B5D8E.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_6.uasset'
+[2016.01.31-07.30.46:971][751]LogSavePackage: Total save time: 13.892323ms
+[2016.01.31-07.30.46:971][751]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Attack/Barbarian_Attack_Sprite_6.uasset
+[2016.01.31-07.31.03:568][422]LogSavePackage: Save=6.188943ms
+[2016.01.31-07.31.03:568][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_0C402C7C34133000E36CEF287B0AA4FA3.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_0.uasset'
+[2016.01.31-07.31.03:569][422]LogSavePackage: Total save time: 13.670497ms
+[2016.01.31-07.31.03:570][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_0.uasset
+[2016.01.31-07.31.03:599][422]LogSavePackage: Save=6.200081ms
+[2016.01.31-07.31.03:599][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_162E367BD4B2673BA439CB5B6DA0D622E.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_1.uasset'
+[2016.01.31-07.31.03:600][422]LogSavePackage: Total save time: 13.739180ms
+[2016.01.31-07.31.03:600][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_1.uasset
+[2016.01.31-07.31.03:629][422]LogSavePackage: Save=6.037035ms
+[2016.01.31-07.31.03:629][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_269317BA54348C81BC08FB39C4A29F1FF.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_2.uasset'
+[2016.01.31-07.31.03:630][422]LogSavePackage: Total save time: 13.849940ms
+[2016.01.31-07.31.03:630][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_2.uasset
+[2016.01.31-07.31.03:661][422]LogSavePackage: Save=5.932153ms
+[2016.01.31-07.31.03:661][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_39BF1F45349C564E176FA86BF1BCB5A7F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_3.uasset'
+[2016.01.31-07.31.03:662][422]LogSavePackage: Total save time: 13.586655ms
+[2016.01.31-07.31.03:662][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_3.uasset
+[2016.01.31-07.31.03:693][422]LogSavePackage: Save=6.172545ms
+[2016.01.31-07.31.03:693][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_4CFF1A4144C706AE52336F29E06816FD4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_4.uasset'
+[2016.01.31-07.31.03:694][422]LogSavePackage: Total save time: 14.072388ms
+[2016.01.31-07.31.03:694][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_4.uasset
+[2016.01.31-07.31.03:725][422]LogSavePackage: Save=6.190490ms
+[2016.01.31-07.31.03:725][422]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Block_Sprite_51F82F71C47B93FAB05365799CE62B624.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_5.uasset'
+[2016.01.31-07.31.03:726][422]LogSavePackage: Total save time: 14.133956ms
+[2016.01.31-07.31.03:726][422]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Block/Barbarian_Block_Sprite_5.uasset
+[2016.01.31-07.31.19:465][ 25]LogSavePackage: Save=6.177495ms
+[2016.01.31-07.31.19:466][ 25]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle_Sprite_01F5D90DB4C744AF99106A6B1C65F522F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_0.uasset'
+[2016.01.31-07.31.19:467][ 25]LogSavePackage: Total save time: 14.350526ms
+[2016.01.31-07.31.19:467][ 25]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_0.uasset
+[2016.01.31-07.31.19:496][ 25]LogSavePackage: Save=6.015378ms
+[2016.01.31-07.31.19:496][ 25]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle_Sprite_1230CFE664FEFA3BF8BFF1C835121AED9.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_1.uasset'
+[2016.01.31-07.31.19:497][ 25]LogSavePackage: Total save time: 13.798270ms
+[2016.01.31-07.31.19:497][ 25]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_1.uasset
+[2016.01.31-07.31.19:528][ 25]LogSavePackage: Save=6.339923ms
+[2016.01.31-07.31.19:528][ 25]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle_Sprite_221A75606400FF3A4A2FF3DA5C60A6F72.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_2.uasset'
+[2016.01.31-07.31.19:529][ 25]LogSavePackage: Total save time: 14.587205ms
+[2016.01.31-07.31.19:529][ 25]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_2.uasset
+[2016.01.31-07.31.19:558][ 25]LogSavePackage: Save=6.173164ms
+[2016.01.31-07.31.19:558][ 25]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle_Sprite_33306404F4EE368E863D3BA80315261BC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_3.uasset'
+[2016.01.31-07.31.19:559][ 25]LogSavePackage: Total save time: 14.194906ms
+[2016.01.31-07.31.19:559][ 25]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_3.uasset
+[2016.01.31-07.33.27:749][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lvl_Main' took 0.025
+[2016.01.31-07.33.27:754][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Barbarian] ([1] browsable assets)...
+[2016.01.31-07.33.27:754][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barbarian]
+[2016.01.31-07.33.27:754][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barbarian" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Barbarian_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.01.31-07.33.27:772][511]LogSavePackage: Save=10.696686ms
+[2016.01.31-07.33.27:772][511]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Auto1E48305764A2521020E0012AA2A0A48FD.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Barbarian_Auto1.uasset'
+[2016.01.31-07.33.27:773][511]LogSavePackage: Total save time: 18.133689ms
+[2016.01.31-07.33.27:773][511]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Barbarian_Auto1.uasset
+[2016.01.31-07.33.27:773][511]LogFileHelpers: Auto-saving content packages took 0.023
+[2016.01.31-07.36.22:757][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barbarian" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset" SILENT=true
+[2016.01.31-07.36.22:776][469]LogSavePackage: Save=10.542612ms
+[2016.01.31-07.36.22:776][469]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian748AED77470ABADD3215AE9A13C0A145.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset'
+[2016.01.31-07.36.22:777][469]LogSavePackage: Total save time: 19.486319ms
+[2016.01.31-07.36.22:777][469]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Barbarian.uasset
+[2016.01.31-07.36.31:863][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.36.31:884][360]LogSavePackage: Save=12.812263ms
+[2016.01.31-07.36.31:884][360]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main8783AADC4E69208E2B1723A00C0F840D.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.36.31:885][360]LogSavePackage: Total save time: 20.709012ms
+[2016.01.31-07.36.31:885][360]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.36.54:285][780]Cmd: DUPLICATE
+[2016.01.31-07.36.54:285][780]Cmd: ACTOR DUPLICATE
+[2016.01.31-07.36.56:036][981]Cmd: DUPLICATE
+[2016.01.31-07.36.56:036][981]Cmd: ACTOR DUPLICATE
+[2016.01.31-07.36.58:504][268]Cmd: DUPLICATE
+[2016.01.31-07.36.58:504][268]Cmd: ACTOR DUPLICATE
+[2016.01.31-07.37.01:018][556]Cmd: DUPLICATE
+[2016.01.31-07.37.01:018][556]Cmd: ACTOR DUPLICATE
+[2016.01.31-07.37.03:027][789]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian)
+[2016.01.31-07.37.04:767][990]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian2)
+[2016.01.31-07.37.06:530][193]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian4)
+[2016.01.31-07.37.08:352][405]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian5)
+[2016.01.31-07.37.10:641][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.37.10:665][649]LogSavePackage: Save=16.476931ms
+[2016.01.31-07.37.10:665][649]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main924BD48B4226DE51147755BAA37ED1CC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.37.10:666][649]LogSavePackage: Total save time: 24.203211ms
+[2016.01.31-07.37.10:666][649]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.39.37:135][295]LogRenderer: Reallocating scene render targets to support 1476x956 (Frame:71038).
+[2016.01.31-07.40.28:653][519]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005B8E07C0
+[2016.01.31-07.40.28:693][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.40.28:718][519]LogSavePackage: Save=16.306768ms
+[2016.01.31-07.40.28:718][519]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainC216D0BF43D9895EEB6471B40E5149D3.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.40.28:718][519]LogSavePackage: Total save time: 23.914244ms
+[2016.01.31-07.40.28:718][519]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.42.30:348][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.42.30:373][663]LogSavePackage: Save=16.554277ms
+[2016.01.31-07.42.30:373][663]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main6C82A2F64A0E3CA83DFC1C890DBAD280.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.42.30:373][663]LogSavePackage: Total save time: 24.407096ms
+[2016.01.31-07.42.30:373][663]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.42.51:855][119]LogEditorViewport: Clicking on Actor (context menu): Barbarian_C (Barbarian5)
+[2016.01.31-07.43.48:937][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/Lvl_Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.01.31-07.43.48:962][281]LogSavePackage: Save=16.488379ms
+[2016.01.31-07.43.48:962][281]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Main_Auto27D731A8041EE6EE4CC55FBA01E355BF2.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/Lvl_Main_Auto2.umap'
+[2016.01.31-07.43.48:962][281]LogSavePackage: Total save time: 24.267562ms
+[2016.01.31-07.43.48:963][281]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/Lvl_Main_Auto2.umap
+[2016.01.31-07.43.48:963][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lvl_Main' took 0.053
+[2016.01.31-07.43.48:963][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2016.01.31-07.45.45:119][139]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.01.31-07.45.48:131][486]LogTexture:Display: Building textures: Barbarian_Idle (AutoDXT)
+[2016.01.31-07.45.54:587][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.45.54:635][103]LogSavePackage: Save=16.363386ms
+[2016.01.31-07.45.54:635][103]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_Main0AC83D6E4221E0F077013AB43930A83A.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap'
+[2016.01.31-07.45.54:636][103]LogSavePackage: Total save time: 24.763197ms
+[2016.01.31-07.45.54:636][103]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap
+[2016.01.31-07.45.54:658][103]LogFileHelpers: Saving map 'Lvl_Main' took 0.118
+[2016.01.31-07.45.54:688][103]LogSavePackage: Save=5.979489ms
+[2016.01.31-07.45.54:688][103]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle_Sprite_0EDC88C05459C876FC5A07EA9706EF7B4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_0.uasset'
+[2016.01.31-07.45.54:689][103]LogSavePackage: Total save time: 14.560595ms
+[2016.01.31-07.45.54:689][103]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Sprites/Barbarian_Idle/Barbarian_Idle_Sprite_0.uasset
+[2016.01.31-07.45.54:697][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Barbarian_Idle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset" SILENT=true
+[2016.01.31-07.45.54:708][103]LogSavePackage: Save=2.590792ms
+[2016.01.31-07.45.54:708][103]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Idle4E0C977943DDDC2AB2196B981A23CADF.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset'
+[2016.01.31-07.45.54:709][103]LogSavePackage: Total save time: 11.175305ms
+[2016.01.31-07.45.54:709][103]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset
+[2016.01.31-07.46.04:362][100]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005A267880
+[2016.01.31-07.46.04:363][100]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000057E905E0
+[2016.01.31-07.46.04:383][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Barbarian_Attack" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Attack.uasset" SILENT=true
+[2016.01.31-07.46.04:394][100]LogSavePackage: Save=2.627918ms
+[2016.01.31-07.46.04:394][100]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_Attack3A9086A942265C9E0D5FC0B5C038565B.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Attack.uasset'
+[2016.01.31-07.46.04:395][100]LogSavePackage: Total save time: 11.085581ms
+[2016.01.31-07.46.04:395][100]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Attack.uasset
+[2016.01.31-07.46.09:443][616]LogTexture:Display: Building textures: Barbarian_Block (AutoDXT)
+[2016.01.31-07.46.10:042][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Barbarian_Block" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Block.uasset" SILENT=true
+[2016.01.31-07.46.10:053][676]LogSavePackage: Save=2.483436ms
+[2016.01.31-07.46.10:053][676]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_BlockAA74DC7043711F3BF9DE96A45AFAD4A5.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Block.uasset'
+[2016.01.31-07.46.10:054][676]LogSavePackage: Total save time: 11.046600ms
+[2016.01.31-07.46.10:054][676]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Block.uasset
+[2016.01.31-07.46.18:826][568]LogTexture:Display: Building textures: main_bg (AutoDXT)
+[2016.01.31-07.46.19:731][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/main_bg" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset" SILENT=true
+[2016.01.31-07.46.19:757][646]LogSavePackage: Save=16.967926ms
+[2016.01.31-07.46.19:757][646]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/main_bgF4FF410740931B869F9E76B24B018628.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset'
+[2016.01.31-07.46.19:758][646]LogSavePackage: Total save time: 26.165638ms
+[2016.01.31-07.46.19:758][646]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset
+[2016.01.31-07.46.23:327][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.46.23:352][ 35]LogSavePackage: Save=16.470125ms
+[2016.01.31-07.46.23:352][ 35]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainD21B41A443C0027DDBDBB59AEAF6512C.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.46.23:352][ 35]LogSavePackage: Total save time: 24.018195ms
+[2016.01.31-07.46.23:352][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.46.35:842][398]Cmd: TRANSACTION UNDO
+[2016.01.31-07.46.35:842][398]LogEditorTransaction: Undo Edit sRGB
+[2016.01.31-07.46.38:020][604]Cmd: TRANSACTION UNDO
+[2016.01.31-07.46.38:020][604]LogEditorTransaction: Undo Edit sRGB
+[2016.01.31-07.46.39:519][752]Cmd: TRANSACTION UNDO
+[2016.01.31-07.46.39:519][752]LogEditorTransaction: Undo Edit sRGB
+[2016.01.31-07.46.53:707][176]LogTexture:Display: Building textures: Barbarian_Idle (AutoDXT)
+[2016.01.31-07.46.55:033][332]LogTexture:Display: Building textures: Barbarian_Idle (AutoDXT)
+[2016.01.31-07.47.06:778][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Barbarian_Idle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset" SILENT=true
+[2016.01.31-07.47.06:788][683]LogSavePackage: Save=2.365869ms
+[2016.01.31-07.47.06:789][683]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Barbarian_IdleEDBE0D2E4919760F6F72D6BE50F66BB8.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset'
+[2016.01.31-07.47.06:789][683]LogSavePackage: Total save time: 11.102598ms
+[2016.01.31-07.47.06:789][683]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/Barbarian_Idle.uasset
+[2016.01.31-07.47.07:472][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.47.07:497][740]LogSavePackage: Save=16.413507ms
+[2016.01.31-07.47.07:497][740]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainDC7B0F7540DD2D7A1276BCBAD3C1D9A9.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.47.07:498][740]LogSavePackage: Total save time: 24.374608ms
+[2016.01.31-07.47.07:498][740]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.47.37:155][811]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.01.31-07.47.37:183][811]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.47.37:184][811]LightingResults: New page: Lighting Build
+[2016.01.31-07.47.37:196][811]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.01.31-07.47.37:197][811]MapCheck: New page: Map Check
+[2016.01.31-07.47.37:197][811]LightingResults: New page: Lighting Build
+[2016.01.31-07.47.37:222][811]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000112D5BC0
+[2016.01.31-07.47.37:263][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.47.37:285][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.47.37:328][811]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.032ms to complete.
+[2016.01.31-07.47.37:328][811]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.145
+[2016.01.31-07.47.38:669][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.47.38:726][901]LogSavePackage: Save=49.256298ms
+[2016.01.31-07.47.38:727][901]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu7DA698844AAE5D77F33232B38EFF22C6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.47.38:727][901]LogSavePackage: Total save time: 57.371166ms
+[2016.01.31-07.47.38:727][901]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.48.08:681][361]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000064C75C60
+[2016.01.31-07.48.08:743][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.48.08:822][361]LogSavePackage: Save=47.508583ms
+[2016.01.31-07.48.08:822][361]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenu0DC951F94C747E2F979B5388D284C310.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.48.08:823][361]LogSavePackage: Total save time: 55.931907ms
+[2016.01.31-07.48.08:823][361]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.48.08:844][361]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.148
+[2016.01.31-07.48.08:859][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/main_bg" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset" SILENT=true
+[2016.01.31-07.48.08:883][361]LogSavePackage: Save=16.578409ms
+[2016.01.31-07.48.08:883][361]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/main_bg8F67DD074FA25A0E8E57D6BBC0214DC7.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset'
+[2016.01.31-07.48.08:884][361]LogSavePackage: Total save time: 24.976984ms
+[2016.01.31-07.48.08:884][361]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Assets/main_bg.uasset
+[2016.01.31-07.48.12:659][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.48.12:716][778]LogSavePackage: Save=49.784111ms
+[2016.01.31-07.48.12:716][778]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu7236197E449D1C389ECE759EE2173305.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.48.12:717][778]LogSavePackage: Total save time: 57.524621ms
+[2016.01.31-07.48.12:717][778]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.48.21:393][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.48.21:451][ 33]LogSavePackage: Save=49.254444ms
+[2016.01.31-07.48.21:451][ 33]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu4B6A24B24D523D31918DD8875832F73B.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.48.21:452][ 33]LogSavePackage: Total save time: 57.301864ms
+[2016.01.31-07.48.21:452][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.48.38:873][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.48.38:954][464]LogSavePackage: Save=47.742786ms
+[2016.01.31-07.48.38:955][464]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenu37AE840B498892B5FD659680A8ECDC8F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.48.38:955][464]LogSavePackage: Total save time: 56.716815ms
+[2016.01.31-07.48.38:955][464]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.48.38:977][464]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.150
+[2016.01.31-07.48.43:530][943]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.48.43:561][943]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.48.43:561][943]LightingResults: New page: Lighting Build
+[2016.01.31-07.48.43:575][943]LoadErrors: New page: Loading map: Lvl_Main.umap
+[2016.01.31-07.48.43:575][943]MapCheck: New page: Map Check
+[2016.01.31-07.48.43:575][943]LightingResults: New page: Lighting Build
+[2016.01.31-07.48.43:656][943]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005C6D36A0
+[2016.01.31-07.48.43:656][943]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.48.43:678][943]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.48.43:720][943]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.569ms to complete.
+[2016.01.31-07.48.43:720][943]LogFileHelpers: Loading map 'Lvl_Main' took 0.160
+[2016.01.31-07.48.45:599][161]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian5)
+[2016.01.31-07.48.48:649][507]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian2)
+[2016.01.31-07.48.50:792][760]LogEditorViewport: Clicking Background
+[2016.01.31-07.48.53:436][ 74]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background)
+[2016.01.31-07.48.56:189][350]LogEditorViewport: Clicking Background
+[2016.01.31-07.48.56:851][428]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian)
+[2016.01.31-07.50.00:787][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.50.00:805][225]LogSavePackage: Save=9.771934ms
+[2016.01.31-07.50.00:805][225]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnE82FCC0E442D91143C815793325F98A6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.50.00:806][225]LogSavePackage: Total save time: 18.116675ms
+[2016.01.31-07.50.00:806][225]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.50.00:846][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.50.00:871][225]LogSavePackage: Save=16.607492ms
+[2016.01.31-07.50.00:871][225]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main5B1B01FD4843DAF548C6A0803CDF5AE6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.50.00:872][225]LogSavePackage: Total save time: 24.819504ms
+[2016.01.31-07.50.00:872][225]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.50.26:137][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.50.26:155][285]LogSavePackage: Save=9.491012ms
+[2016.01.31-07.50.26:155][285]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn3135D715484D3D312CF3EC950B11FAD3.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.50.26:156][285]LogSavePackage: Total save time: 18.052012ms
+[2016.01.31-07.50.26:156][285]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.50.26:196][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.50.26:221][285]LogSavePackage: Save=16.412579ms
+[2016.01.31-07.50.26:221][285]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main0F58A79D43CFE88E7BD2CD80C60013C2.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.50.26:222][285]LogSavePackage: Total save time: 24.394717ms
+[2016.01.31-07.50.26:222][285]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.50.44:981][668]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.01.31-07.50.45:008][668]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.50.45:009][668]LightingResults: New page: Lighting Build
+[2016.01.31-07.50.45:021][668]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.01.31-07.50.45:022][668]MapCheck: New page: Map Check
+[2016.01.31-07.50.45:022][668]LightingResults: New page: Lighting Build
+[2016.01.31-07.50.45:044][668]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000069865080
+[2016.01.31-07.50.45:116][668]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.50.45:139][668]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.50.45:180][668]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.794ms to complete.
+[2016.01.31-07.50.45:181][668]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.173
+[2016.01.31-07.50.46:179][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.50.46:237][755]LogSavePackage: Save=49.589199ms
+[2016.01.31-07.50.46:237][755]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuB3A8328645A98114D30735902B38D6D7.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.50.46:238][755]LogSavePackage: Total save time: 57.693854ms
+[2016.01.31-07.50.46:238][755]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.51.01:973][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.51.02:032][935]LogSavePackage: Save=49.864243ms
+[2016.01.31-07.51.02:032][935]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu06F5E4784B86AAEC0A4D7CA69191BE6E.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.51.02:032][935]LogSavePackage: Total save time: 58.600973ms
+[2016.01.31-07.51.02:032][935]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.51.18:756][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.51.18:837][670]LogSavePackage: Save=47.827869ms
+[2016.01.31-07.51.18:837][670]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenu1F3C07A94A567FBB162CF980A5365024.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.51.18:838][670]LogSavePackage: Total save time: 57.935484ms
+[2016.01.31-07.51.18:838][670]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.51.18:859][670]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.149
+[2016.01.31-07.51.20:919][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.51.20:937][700]LogSavePackage: Save=9.199881ms
+[2016.01.31-07.51.20:937][700]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnF5B0BDEA4F7ED3B26FAA8FB2CC4BFF94.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.51.20:938][700]LogSavePackage: Total save time: 17.858647ms
+[2016.01.31-07.51.20:938][700]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.51.20:978][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.51.21:036][700]LogSavePackage: Save=50.199924ms
+[2016.01.31-07.51.21:036][700]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuE3DF604C4AB68CA8F6906AB834B16808.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.51.21:037][700]LogSavePackage: Total save time: 58.463298ms
+[2016.01.31-07.51.21:037][700]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.51.41:591][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.51.41:609][586]LogSavePackage: Save=9.043331ms
+[2016.01.31-07.51.41:609][586]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn6F6D16DF49A7524160AD4A8ED7B58856.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.51.41:610][586]LogSavePackage: Total save time: 18.258989ms
+[2016.01.31-07.51.41:610][586]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.51.41:651][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.51.41:709][586]LogSavePackage: Save=50.421753ms
+[2016.01.31-07.51.41:709][586]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu5DC2C0CB4681578748DF72BBEBF403E5.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.51.41:710][586]LogSavePackage: Total save time: 58.408845ms
+[2016.01.31-07.51.41:710][586]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.51.58:538][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.51.58:556][ 60]LogSavePackage: Save=9.344982ms
+[2016.01.31-07.51.58:556][ 60]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnADC9802344D92B25F7F01EA4870973B4.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.51.58:557][ 60]LogSavePackage: Total save time: 18.716261ms
+[2016.01.31-07.51.58:557][ 60]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.51.58:597][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.51.58:655][ 60]LogSavePackage: Save=49.981808ms
+[2016.01.31-07.51.58:655][ 60]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuDE05E80247D9CA655BF85589EAEE45DD.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.51.58:656][ 60]LogSavePackage: Total save time: 57.855044ms
+[2016.01.31-07.51.58:656][ 60]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.52.13:118][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.52.13:137][637]LogSavePackage: Save=9.212874ms
+[2016.01.31-07.52.13:137][637]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnF20AEEA64954B9615C3D2CA75C2A7BFB.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.52.13:138][637]LogSavePackage: Total save time: 18.629637ms
+[2016.01.31-07.52.13:138][637]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.52.13:178][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.52.13:236][637]LogSavePackage: Save=49.895489ms
+[2016.01.31-07.52.13:236][637]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu154341B34A7BEFD8E2A75787AACB90B6.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.52.13:237][637]LogSavePackage: Total save time: 57.852879ms
+[2016.01.31-07.52.13:237][637]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.52.24:367][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.52.24:385][959]LogSavePackage: Save=9.791116ms
+[2016.01.31-07.52.24:385][959]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn3C6C0D8C46C8EDBC6D7B2AA8D1087CDF.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.52.24:386][959]LogSavePackage: Total save time: 19.079790ms
+[2016.01.31-07.52.24:386][959]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.52.24:426][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.52.24:484][959]LogSavePackage: Save=49.759361ms
+[2016.01.31-07.52.24:484][959]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu342919D64065D50ED2EE198B8405F0E0.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.52.24:485][959]LogSavePackage: Total save time: 57.816371ms
+[2016.01.31-07.52.24:485][959]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.52.36:497][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.52.36:579][472]LogSavePackage: Save=49.570324ms
+[2016.01.31-07.52.36:579][472]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenuDFDC2C554E92774C31B45F9AA2F95337.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.52.36:580][472]LogSavePackage: Total save time: 59.039991ms
+[2016.01.31-07.52.36:580][472]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.52.36:601][472]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.150
+[2016.01.31-07.52.36:606][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.52.36:624][472]LogSavePackage: Save=9.199571ms
+[2016.01.31-07.52.36:624][472]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn15C6C4DF4524CE75B8736AA4C1310C8D.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.52.36:625][472]LogSavePackage: Total save time: 17.497595ms
+[2016.01.31-07.52.36:625][472]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.52.42:141][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.52.42:199][ 98]LogSavePackage: Save=49.547741ms
+[2016.01.31-07.52.42:199][ 98]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu4EFCA3574049FCD478990CB7F13E0BBB.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.52.42:200][ 98]LogSavePackage: Total save time: 58.346350ms
+[2016.01.31-07.52.42:200][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.52.57:763][267]BlueprintLog: New page: Compile MainPawn
+[2016.01.31-07.52.57:827][267]BlueprintEditorCompileResults: Info [3442.68] Compile of MainPawn successful! [in 64 ms]
+[2016.01.31-07.53.00:084][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.53.00:143][456]LogSavePackage: Save=49.623230ms
+[2016.01.31-07.53.00:143][456]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu308F375A46B23EC0B278148410AD0D23.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.53.00:144][456]LogSavePackage: Total save time: 58.836102ms
+[2016.01.31-07.53.00:144][456]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.53.14:360][857]BlueprintLog: New page: Compile MainPawn
+[2016.01.31-07.53.14:424][857]BlueprintEditorCompileResults: Info [3459.27] Compile of MainPawn successful! [in 63 ms]
+[2016.01.31-07.53.14:902][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.53.14:921][889]LogSavePackage: Save=9.709128ms
+[2016.01.31-07.53.14:921][889]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn36923AEB4349060C7869859380D4DD21.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.53.14:922][889]LogSavePackage: Total save time: 19.522209ms
+[2016.01.31-07.53.14:922][889]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.53.15:821][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.53.15:879][948]LogSavePackage: Save=50.327702ms
+[2016.01.31-07.53.15:879][948]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuF940186544415436049B769BCC1C5155.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.53.15:880][948]LogSavePackage: Total save time: 58.459893ms
+[2016.01.31-07.53.15:880][948]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.53.28:296][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.53.28:377][459]LogSavePackage: Save=48.100437ms
+[2016.01.31-07.53.28:377][459]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenuE0B6DE06466BA4C9AEDFA7BDBECE0A94.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.53.28:378][459]LogSavePackage: Total save time: 57.816062ms
+[2016.01.31-07.53.28:378][459]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.53.28:399][459]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.148
+[2016.01.31-07.53.28:404][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.53.28:422][459]LogSavePackage: Save=9.670455ms
+[2016.01.31-07.53.28:422][459]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn926E0DA247C88E4F95AE0CA9C05E2D77.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.53.28:423][459]LogSavePackage: Total save time: 17.904434ms
+[2016.01.31-07.53.28:423][459]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.53.28:955][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.53.29:013][492]LogSavePackage: Save=49.452759ms
+[2016.01.31-07.53.29:013][492]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu8DCE1F814B5D7B683D9563A1D6298F26.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.53.29:014][492]LogSavePackage: Total save time: 57.546899ms
+[2016.01.31-07.53.29:014][492]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.53.45:238][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.53.45:257][977]LogSavePackage: Save=9.595584ms
+[2016.01.31-07.53.45:257][977]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn056C147F433D4CE554EC719887E31D80.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.53.45:258][977]LogSavePackage: Total save time: 19.177556ms
+[2016.01.31-07.53.45:258][977]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.53.45:298][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.53.45:356][977]LogSavePackage: Save=49.570637ms
+[2016.01.31-07.53.45:356][977]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu057D063E4775B7F04B8F01B1F5CFB88E.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.53.45:357][977]LogSavePackage: Total save time: 57.821941ms
+[2016.01.31-07.53.45:357][977]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.53.54:501][103]BlueprintLog: New page: Compile MainPawn
+[2016.01.31-07.53.54:566][103]BlueprintEditorCompileResults: Info [3499.41] Compile of MainPawn successful! [in 64 ms]
+[2016.01.31-07.53.55:005][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.53.55:024][127]LogSavePackage: Save=9.350551ms
+[2016.01.31-07.53.55:024][127]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnC2F1667B42F423EC27D84CA9B040E232.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.53.55:025][127]LogSavePackage: Total save time: 18.383365ms
+[2016.01.31-07.53.55:025][127]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.53.56:670][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.53.56:728][276]LogSavePackage: Save=49.904461ms
+[2016.01.31-07.53.56:728][276]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu1266914B44EDD45FBE96F7823CCFC417.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.53.56:728][276]LogSavePackage: Total save time: 57.894956ms
+[2016.01.31-07.53.56:728][276]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.54.11:596][702]BlueprintLog: New page: Compile MainPawn
+[2016.01.31-07.54.11:660][702]BlueprintEditorCompileResults: Info [3516.51] Compile of MainPawn successful! [in 63 ms]
+[2016.01.31-07.54.12:056][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.54.12:074][729]LogSavePackage: Save=9.046425ms
+[2016.01.31-07.54.12:074][729]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawn71EB2F6145BF243A7A6247BF5C0093EB.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.54.12:075][729]LogSavePackage: Total save time: 18.186904ms
+[2016.01.31-07.54.12:075][729]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.54.12:886][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.54.12:944][774]LogSavePackage: Save=48.846054ms
+[2016.01.31-07.54.12:944][774]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuBD40D562435C3C507A65F8804F9D0B01.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.54.12:944][774]LogSavePackage: Total save time: 57.143148ms
+[2016.01.31-07.54.12:944][774]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.54.25:237][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.54.25:317][161]LogSavePackage: Save=47.964615ms
+[2016.01.31-07.54.25:317][161]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenuD1E4C9DD46497F6BD3FBA49B9B47C0DA.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.54.25:318][161]LogSavePackage: Total save time: 57.389420ms
+[2016.01.31-07.54.25:318][161]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.54.25:339][161]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.147
+[2016.01.31-07.54.27:109][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPawn" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset" SILENT=true
+[2016.01.31-07.54.27:127][192]LogSavePackage: Save=9.564027ms
+[2016.01.31-07.54.27:127][192]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/MainPawnE24F51654752BBC618FAEAAA6AAC5569.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset'
+[2016.01.31-07.54.27:128][192]LogSavePackage: Total save time: 17.801717ms
+[2016.01.31-07.54.27:128][192]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/MainPawn.uasset
+[2016.01.31-07.54.27:169][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.54.27:228][192]LogSavePackage: Save=51.004326ms
+[2016.01.31-07.54.27:228][192]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenuD54CA5BE43BD8D8C11A488A77E1BBC93.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.01.31-07.54.27:229][192]LogSavePackage: Total save time: 58.907263ms
+[2016.01.31-07.54.27:229][192]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.01.31-07.54.40:356][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.01.31-07.54.40:437][578]LogSavePackage: Save=47.812710ms
+[2016.01.31-07.54.40:437][578]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenu55061CB4496423970EB879B5599AA87B.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.01.31-07.54.40:438][578]LogSavePackage: Total save time: 57.467073ms
+[2016.01.31-07.54.40:438][578]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.01.31-07.54.40:459][578]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.149
+[2016.01.31-07.54.42:316][771]LogAIModule: Creating AISystem for world Lvl_Main
+[2016.01.31-07.54.42:348][771]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.31-07.54.42:348][771]LightingResults: New page: Lighting Build
+[2016.01.31-07.54.42:363][771]LoadErrors: New page: Loading map: Lvl_Main.umap
+[2016.01.31-07.54.42:363][771]MapCheck: New page: Map Check
+[2016.01.31-07.54.42:363][771]LightingResults: New page: Lighting Build
+[2016.01.31-07.54.42:470][771]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000052F5C4A0
+[2016.01.31-07.54.42:470][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.31-07.54.42:492][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.31-07.54.42:534][771]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.687ms to complete.
+[2016.01.31-07.54.42:535][771]LogFileHelpers: Loading map 'Lvl_Main' took 0.188
+[2016.01.31-07.54.43:763][913]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian3)
+[2016.01.31-07.54.46:970][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.54.46:995][258]LogSavePackage: Save=16.796526ms
+[2016.01.31-07.54.46:995][258]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main8C20EDD74DF22914649B7F8DF26EFCB5.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.54.46:995][258]LogSavePackage: Total save time: 25.109708ms
+[2016.01.31-07.54.46:995][258]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.55.03:877][860]LogEditorViewport: Clicking Background
+[2016.01.31-07.55.07:963][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Main" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.01.31-07.55.07:989][306]LogSavePackage: Save=16.131966ms
+[2016.01.31-07.55.07:989][306]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Main01000DC140721B473991E2882EBC864F.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap'
+[2016.01.31-07.55.07:989][306]LogSavePackage: Total save time: 24.858795ms
+[2016.01.31-07.55.07:989][306]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Main.umap
+[2016.01.31-07.55.31:223][843]LogEditorViewport: Clicking Background
+[2016.01.31-07.55.31:805][912]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian3)
+[2016.01.31-07.55.34:434][215]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian)
+[2016.01.31-07.55.36:740][482]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian2)
+[2016.01.31-07.55.38:587][697]LogEditorVi
