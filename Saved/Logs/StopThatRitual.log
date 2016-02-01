@@ -1854,4 +1854,113 @@ Make sure 'Enemy_C' has been compiled for  Set BattleMode
 [2016.02.01-01.13.32:487][ 78]LogSavePackage: Save=63.000069ms
 [2016.02.01-01.13.32:487][ 78]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Enemy33A510684C932EC3ADD3428E710DBDFB.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset'
 [2016.02.01-01.13.32:488][ 78]LogSavePackage: Total save time: 91.941774ms
-[2016.02.01-01.13.32:488][ 78]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitua
+[2016.02.01-01.13.32:488][ 78]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset
+[2016.02.01-01.14.19:619][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset" SILENT=true
+[2016.02.01-01.14.19:699][897]LogSavePackage: Save=63.289963ms
+[2016.02.01-01.14.19:699][897]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Enemy604826304B552A8F3FF2128E8C65FAC1.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset'
+[2016.02.01-01.14.19:700][897]LogSavePackage: Total save time: 79.871926ms
+[2016.02.01-01.14.19:700][897]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset
+[2016.02.01-01.14.19:740][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.02.01-01.14.19:843][897]LogSavePackage: Save=89.862991ms
+[2016.02.01-01.14.19:843][897]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Battle838D7DED42FA348D7C642BB7037A22EE.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap'
+[2016.02.01-01.14.19:844][897]LogSavePackage: Total save time: 103.550937ms
+[2016.02.01-01.14.19:844][897]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap
+[2016.02.01-01.15.14:659][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset" SILENT=true
+[2016.02.01-01.15.14:752][805]LogSavePackage: Save=65.303459ms
+[2016.02.01-01.15.14:752][805]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Enemy8B1C89EE4CCFDAFEC2A97A88D62D5C71.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset'
+[2016.02.01-01.15.14:753][805]LogSavePackage: Total save time: 93.501709ms
+[2016.02.01-01.15.14:753][805]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Enemy.uasset
+[2016.02.01-01.15.14:793][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Battle" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.02.01-01.15.14:898][805]LogSavePackage: Save=90.344093ms
+[2016.02.01-01.15.14:898][805]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_Battle188DAA594475495D68F8AAB81E9C4FB3.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap'
+[2016.02.01-01.15.14:899][805]LogSavePackage: Total save time: 105.110254ms
+[2016.02.01-01.15.14:899][805]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_Battle.umap
+[2016.02.01-01.17.50:116][ 57]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.02.01-01.17.50:145][ 57]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.17.50:145][ 57]LightingResults: New page: Lighting Build
+[2016.02.01-01.17.50:160][ 57]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.02.01-01.17.50:190][ 57]MapCheck: New page: Map Check
+[2016.02.01-01.17.50:190][ 57]LightingResults: New page: Lighting Build
+[2016.02.01-01.17.50:212][ 57]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000113FFD80
+[2016.02.01-01.17.50:213][ 57]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000010559A520
+[2016.02.01-01.17.50:257][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.17.50:281][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.17.50:327][ 57]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.907ms to complete.
+[2016.02.01-01.17.50:327][ 57]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.184
+[2016.02.01-01.17.51:434][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2016.02.01-01.17.51:517][157]LogSavePackage: Save=52.271420ms
+[2016.02.01-01.17.51:517][157]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/UEDPCLvl_MainMenu7E3BE8544576A3C50E817A8DB1A930EC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap'
+[2016.02.01-01.17.51:517][157]LogSavePackage: Total save time: 82.415406ms
+[2016.02.01-01.17.51:517][157]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Saved/Autosaves/Game/Maps/UEDPCLvl_MainMenu.umap
+[2016.02.01-01.18.18:328][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.01-01.18.18:429][368]LogSavePackage: Save=49.222092ms
+[2016.02.01-01.18.18:429][368]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Lvl_MainMenu5CA195CE412E4BC55DFF5C86ACA01897.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap'
+[2016.02.01-01.18.18:430][368]LogSavePackage: Total save time: 77.616796ms
+[2016.02.01-01.18.18:430][368]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap
+[2016.02.01-01.18.18:453][368]LogFileHelpers: Saving map 'Lvl_MainMenu' took 0.173
+[2016.02.01-01.18.18:455][368]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.18.18:455][368]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.18:470][368]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.02.01-01.18.18:470][368]MapCheck: New page: Map Check
+[2016.02.01-01.18.18:470][368]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.18:492][368]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000F7E63A60
+[2016.02.01-01.18.18:505][368]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.02.01-01.18.18:548][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.18.18:575][368]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.18.18:621][368]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.538ms to complete.
+[2016.02.01-01.18.18:622][368]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.169
+[2016.02.01-01.18.20:386][557]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.18.20:386][557]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.20:401][557]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.02.01-01.18.20:401][557]MapCheck: New page: Map Check
+[2016.02.01-01.18.20:401][557]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.20:434][557]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003E917EC0
+[2016.02.01-01.18.20:435][557]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.02.01-01.18.20:477][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.18.20:504][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.18.20:549][557]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.88ms to complete.
+[2016.02.01-01.18.20:550][557]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.165
+[2016.02.01-01.18.33:437][991]LogAIModule: Creating AISystem for world Lvl_Loading
+[2016.02.01-01.18.33:466][991]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Loading.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.18.33:466][991]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.33:481][991]LoadErrors: New page: Loading map: Lvl_Loading.umap
+[2016.02.01-01.18.33:481][991]MapCheck: New page: Map Check
+[2016.02.01-01.18.33:481][991]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.33:503][991]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002DF40E00
+[2016.02.01-01.18.33:546][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.18.33:570][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.18.33:615][991]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.216ms to complete.
+[2016.02.01-01.18.33:615][991]LogFileHelpers: Loading map 'Lvl_Loading' took 0.150
+[2016.02.01-01.18.36:865][334]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.02.01-01.18.36:892][334]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.18.36:892][334]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.36:907][334]LoadErrors: New page: Loading map: Lvl_MainMenu.umap
+[2016.02.01-01.18.36:908][334]MapCheck: New page: Map Check
+[2016.02.01-01.18.36:908][334]LightingResults: New page: Lighting Build
+[2016.02.01-01.18.36:932][334]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002B67A840
+[2016.02.01-01.18.36:974][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.18.36:998][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.18.37:043][334]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.407ms to complete.
+[2016.02.01-01.18.37:043][334]LogFileHelpers: Loading map 'Lvl_MainMenu' took 0.152
+[2016.02.01-01.21.27:417][458]LogAIModule: Creating AISystem for world Lvl_Loading
+[2016.02.01-01.21.27:471][458]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002E2068E0
+[2016.02.01-01.21.29:582][458]Cmd: MAP LOAD FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Loading.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.01-01.21.29:583][458]LightingResults: New page: Lighting Build
+[2016.02.01-01.21.29:598][458]LoadErrors: New page: Loading map: Lvl_Loading.umap
+[2016.02.01-01.21.29:629][458]MapCheck: New page: Map Check
+[2016.02.01-01.21.29:629][458]LightingResults: New page: Lighting Build
+[2016.02.01-01.21.29:655][458]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000001233C4860
+[2016.02.01-01.21.29:655][458]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002E3580E0
+[2016.02.01-01.21.29:701][458]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.01-01.21.29:725][458]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.01-01.21.29:771][458]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.93ms to complete.
+[2016.02.01-01.21.29:771][458]LogFileHelpers: Loading map 'Lvl_Loading' took 0.190
+[2016.02.01-01.21.59:955][864]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.02.01-01.22.25:313][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Wgt_MainMenu" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset" SILENT=true
+[2016.02.01-01.22.25:377][436]LogSavePackage: Save=34.601028ms
+[2016.02.01-01.22.25:377][436]LogSavePackage: Moving '../../../../../../GlobalGameJam/StopThatRitual/Saved/Wgt_MainMenuE78BFA204045D0A39AD1B3A264694BBC.tmp' to '../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset'
+[2016.02.01-01.22.25:403][436]LogSavePackage: Total save time: 89.281656ms
+[2016.02.01-01.22.25:403][436]LogSavePackage:Display: Finished SavePackage ../../../../../../GlobalGameJam/StopThatRitual/Content/Widgets/Wgt_MainMenu.uasset
+[2016.02.01-01.22.29:438][842]LogAIModule: Creating AISystem for world Lvl_MainMenu
+[2016.02.01-01.22.31:017][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lvl_Loading" FILE="../../../../../../GlobalGameJam/StopThatRitual/Content/Maps/Lvl_Loading.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.01-01.22.31:118][842]LogSavePackage: Save=58.7
